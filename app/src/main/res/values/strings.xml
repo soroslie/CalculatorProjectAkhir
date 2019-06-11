@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Calculator Project Akhir</string>
+    <string name="operasi">Operasi</string>
+    <string name="total">Calculate</string>
+    <string name="output">Output</string>
+    <string name="bilangan_1">number 1</string>
+    <string name="bilangan_2">number 2</string>
+
+    <string-array name="operasi_array" >
+        <item>+</item>
+        <item>-</item>
+        <item>*</item>
+        <item>/</item>
+        <item>%</item>
+    </string-array>
+</resources>
